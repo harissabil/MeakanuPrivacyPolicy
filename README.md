@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** January 10, 2024
+**Last updated:** February 8, 2024
 
 This Privacy Policy outlines how we collect, use, and disclose information when you use our Service and informs you about your privacy rights and protections under the law.
 
@@ -28,19 +28,13 @@ While using our Application, in order to provide features of our Application, We
 
 - Pictures and other information from your Device's camera and photo library.
 
-We use this information to provide features of our Service and to improve and customize Our Service. The information may be uploaded to the Service Provider's server or it may be simply stored on Your Device.
-
-## Use of Your Personal Data
+We use this information to provide features of our Service and to improve and customize Our Service. The information may be uploaded to the Service Provider's server or it may be simply stored on Your Device. 
 
 The Service Provider may use Personal Data for the following purposes:
 
 - To provide and maintain our Service, including to monitor the usage of our Service.
 - To manage Your requests: To attend and manage Your requests to Us.
 - For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing, and your experience.
-
-## Sharing of Your Personal Information
-
-We may share Your personal with Service Providers to monitor and analyze the use of our Service.
 
 ## Links to Other Websites
 
