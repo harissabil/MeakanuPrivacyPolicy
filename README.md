@@ -28,11 +28,11 @@ While using our Application, in order to provide features of our Application, We
 
 - Pictures and other information from your Device's camera and photo library.
 
-We use this information to provide features of our Service and to improve and customize Our Service. The information may be uploaded to the Service Provider's server or it may be simply stored on Your Device. 
+We use this information to provide features of our Service and to improve and customize our Service. The information may be uploaded to the Service Provider's server or it may be simply stored on Your Device. 
 
 ## Links to Other Websites
 
-Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third-party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+Our Service may contain links to other websites that are not operated by us. If You click on a third-party link, You will be directed to that third-party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
