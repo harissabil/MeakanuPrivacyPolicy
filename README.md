@@ -30,12 +30,6 @@ While using our Application, in order to provide features of our Application, We
 
 We use this information to provide features of our Service and to improve and customize Our Service. The information may be uploaded to the Service Provider's server or it may be simply stored on Your Device. 
 
-The Service Provider may use Personal Data for the following purposes:
-
-- To provide and maintain our Service, including to monitor the usage of our Service.
-- To manage Your requests: To attend and manage Your requests to Us.
-- For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing, and your experience.
-
 ## Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third-party's site. We strongly advise You to review the Privacy Policy of every site You visit.
