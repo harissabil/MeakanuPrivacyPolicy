@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** February 8, 2024
+**Last updated:** March 21, 2024
 
 This Privacy Policy outlines how we collect, use, and disclose information when you use our Service and informs you about your privacy rights and protections under the law.
 
